@@ -1,5 +1,5 @@
 {
-    // sprtead operator
+    // spread operator
     const bros1: string[] = ['gandib', 'gitisha'];
     const bros2: string[] = ['proma', 'drima'];
 

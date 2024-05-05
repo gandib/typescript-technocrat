@@ -12,7 +12,7 @@
 
 
     // nullish coalescing operator
-    // null / undefined er upor jodi decision make korte hoy. null or undefines er uopr bhitti kmore default value set korte hole nullish use korte hobe
+    // null / undefined er upor jodi decision make korte hoy. null or undefines er uopr bhitti kore default value set korte hole nullish use korte hobe
 
     const isAuthenticated = null; // or undefined
     const result1 = isAuthenticated ?? 'Guest';

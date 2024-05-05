@@ -1,7 +1,7 @@
 { // {} dite hobe, ta na hole ony file same name e kono kichu likhle error asbe, eta practice er jonyo.
     // function
 
-    // normal function, chaile defaulty value o dewa jabe
+    // normal function, chaile default value o dewa jabe
     function add(num1: number, num2: number = 10): number {
         return num1 + num2;
     }

@@ -1,5 +1,5 @@
 {
-    // polymorphism
+    // polymorphism  // over write korte  parbe
     class Person {
         getSleep() {
             console.log("I am sleeping 8 hours per day");

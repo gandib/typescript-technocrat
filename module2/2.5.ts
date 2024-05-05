@@ -16,7 +16,7 @@
     interface User { id: number; name: string; };
     const resGenericObj = createArrayWithGeneric<User>({ id: 1, name: 'Gandib' });
 
-
+    // Tuple
     const createArrayWithTuple = <T, Q>(param1: T, param2: Q): [T, Q] => {
         return [param1, param2];
     }

@@ -1,6 +1,6 @@
 {
-    // constrains => roles force kora.
-    // ami je type ta recieve korbo ta extends korbe sei typegulo ke jegulo ke ami chaibo je ekjon student er thaktei hobe.jemon jodi boli jekono object dilei hobe na, sekhane is, name r email thaktei hobe.
+    // constraint => roles force kora.
+    // ami je type ta recieve korbo ta extends korbe sei typegulo ke jegulo ke ami chaibo je ekjon student er thaktei hobe.jemon jodi boli jekono object dilei hobe na, sekhane id, name r email thaktei hobe.
 
     const addCourseToStudent = <T extends { id: number; name: string; email: string; }>(student: T) => {
         const course = "Next Level Web Dev";

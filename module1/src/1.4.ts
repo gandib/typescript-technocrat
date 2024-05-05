@@ -20,3 +20,6 @@ let eligibleRollList: number[] = [12, 23];
 let coordinates: [number, number] = [1, 5];
 let ageName: [number, string, boolean] = [45, "mr.X", true];
 
+
+
+// terminal e output dekhte hole ts-node-dev --respawn --transpile-only .\module1\1.4.ts
